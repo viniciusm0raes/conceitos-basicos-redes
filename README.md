@@ -1,4 +1,4 @@
-### Endereçamento IPv4
+### Conceitos básicos sobre endereçamento IPv4
 ---
 
 * [Introdução ao Endereçamento IPv4 (Internet Protocol version 4)](./01-IPv4-introducao-ao-enderecamento-ipv4.md)  
