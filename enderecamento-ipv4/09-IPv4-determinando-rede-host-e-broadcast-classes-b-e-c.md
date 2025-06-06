@@ -1,3 +1,5 @@
+[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](./readme.md)
+---
 ### Endereçamento IPv4 - [Determinando Rede, Host e Broadcast ***Classes B e C***](https://www.youtube.com/watch?v=9KmZ5wxMfys&list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&index=10)
 ---
 
