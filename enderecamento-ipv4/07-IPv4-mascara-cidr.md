@@ -1,4 +1,4 @@
-[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](../enderecamento-ipv4/README.md)
+[<p style="font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](../enderecamento-ipv4/README.md)
 ---
 ### Endereçamento IPv4 - [Máscara CIDR](https://www.youtube.com/watch?v=INT-5Qa8Hls&list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&index=8)
 ---
