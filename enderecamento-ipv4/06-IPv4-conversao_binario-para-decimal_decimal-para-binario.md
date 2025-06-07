@@ -1,4 +1,4 @@
-[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](./readme.md)
+[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](../enderecamento-ipv4/README.md)
 ---
 ### Endereçamento IPv4 - [Conversão de Binário para Decimal e Decimal para Binário](https://www.youtube.com/watch?v=Qs0xC9gDU94&list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&index=7)
 ---
