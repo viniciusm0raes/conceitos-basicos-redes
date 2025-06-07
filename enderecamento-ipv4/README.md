@@ -1,4 +1,4 @@
-[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice redes</span></p>](../readme.md)
+[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice redes</span></p>](.././readme.md)
 ---
 ### Conceitos básicos sobre endereçamento IPv4
 ---

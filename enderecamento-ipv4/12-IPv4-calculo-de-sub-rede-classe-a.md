@@ -1,4 +1,4 @@
-[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](readme.md)
+[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](./readme.md)
 ---
 ### Endereçamento IPv4 - [Cálculo de Sub-rede ***Classe A***](https://www.youtube.com/watch?v=fUuzEXHPLBo&list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&index=13)
 ---
