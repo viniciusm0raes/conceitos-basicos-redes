@@ -1,4 +1,4 @@
-[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](../readme.md)
+[<p style="text-align:right; font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](./readme.md)
 ---
 ### Endereçamento IPv4 - [Sub-redes, Hosts e Broadcast com VLSM](https://www.youtube.com/watch?v=jqdhb44J5b0&list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&index=15)
 ---
