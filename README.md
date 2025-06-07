@@ -1,4 +1,4 @@
-### [Conceitos básicos sobre endereçamento IPv4](./enderecamento-ipv4/readme.md)
+### [Conceitos básicos sobre endereçamento IPv4](enderecamento-ipv4/readme.md)
 ---		
 **Fontes**:  
 [**Hardware Redes Brasil** - Curso de Endereçamento IPv4](https://www.youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp)  
