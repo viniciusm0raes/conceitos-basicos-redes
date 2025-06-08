@@ -1,4 +1,4 @@
-[<p style="font-weight: 710;font-size: 1.5em; margin-right:0;">↩︎<span style="font-size: .75em"> índice</span></p>](../enderecamento-ipv4/README.md)
+[<p style="font-weight: 710;font-size: 1.5em;">↩︎<span style="font-size: .75em"> índice</span></p>](../enderecamento-ipv4/README.md)
 ---
 ### Endereçamento IPv4 - [Classes IP](https://www.youtube.com/watch?v=67dTXpzAkMM&list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&index=2)
 ---
